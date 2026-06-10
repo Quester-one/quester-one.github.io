@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a PhD student at Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Prof Jun Zhao.
+I am currently a PhD student at Institute of Automation, Chinese Academy of Sciences (CASIA)<a href='https://www.ia.cas.cn/'>, under the supervision of Prof Jun Zhao<a href='https://scholar.google.com/citations?user=6hE3q1YAAAAJ&hl=zh-CN'>.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
