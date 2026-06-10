@@ -20,8 +20,7 @@ redirect_from:
 
 I am currently a PhD student at <a href='https://www.ia.cas.cn/'>Institute of Automation, Chinese Academy of Sciences (CASIA)</a>, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=6hE3q1YAAAAJ&hl=zh-CN'>Jun Zhao</a>.
 
-My research interests include Large Language Model agents, reinforcement learning for agents, agent planning, and natural language processing.
-
+My research interests include large language model agents, reinforcement learning for agents, agent planning, and natural language processing.
 
 # 📝 Publications 
 
